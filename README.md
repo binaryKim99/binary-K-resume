@@ -13,6 +13,7 @@ I am interested in image processing. In the future, I want to study Machine Lear
          자료구조 특강                21.07.11                    교수 김현수
          소쿠리 대회                  21.08.12                   교수 김현수
          프로젝트1                      22.22.22.               교수 
+         222
 
 
 <!--
