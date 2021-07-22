@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+수정
+
 My name is Dongheon Lee. You can call me Dongheon. I was born in Sejong. At the moment, I live in Deajeon. 
 I am interested in image processing. In the future, I want to study Machine Learing and Artificial Intelligence at image processing. 
 
